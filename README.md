@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Programmer-Mohit
+- 👋 Hi, I’m Mohit Purohit
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning c language.
 - 📫 How to reach me — @Programmer-Mohit
